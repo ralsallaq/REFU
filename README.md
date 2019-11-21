@@ -22,8 +22,8 @@ REFU is a utility for retrieving protein fasta files for enzymes or genes using 
 
 ### Prerequisites
 
-*python >=2.7
-*requests library
+* **python >=2.7
+* **requests library
 
 
 
@@ -37,7 +37,7 @@ git clone https://github.com/ralsallaq/REFU.git
 
 ## Authors
 
-* **Ramzi Alsallaq** - *Initial work* - [PurpleBooth](https://github.com/ralsallaq)
+* **Ramzi Alsallaq
 
 ## License
 
